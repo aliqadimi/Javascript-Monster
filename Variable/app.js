@@ -22,3 +22,26 @@ name = 'hamid'
 
 console.log(number)
 console.log(name)
+
+
+
+// const    ES6
+const familyName = 'haji';
+// const familyName = "QADIMI";
+//OUTPUT
+//Uncaught SyntaxError: Identifier 'familyName' has already been declared
+
+
+let adadad;
+adadad = 25
+adadad = 21
+
+
+var name;
+name = 'akbar'
+name = 'hamid'
+
+// scoping
+
+
+console.log(familyName)
